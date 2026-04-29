@@ -1,4 +1,10 @@
 # Customer Churn Prediction System
+## 🌍 Live Demo
+
+- ML API: https://churn-ml-project.onrender.com/docs  
+- UI: http://localhost:8501 (local)
+## 📸 Demo Screenshot
+<img width="896" height="832" alt="image" src="https://github.com/user-attachments/assets/e5b302b9-3f8b-44d2-9eda-e22d2fd17ecd" />
 
 ## 🚀 Overview
 
